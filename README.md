@@ -82,5 +82,5 @@ of green dot shows.
 2. code_face_identification: matlab code for Face identification
 3. human_recognition_tool.py: a tool used to verify two face images shown if they belong to one identity
 4. code_analysis_ROC: draw ROC
-5. code_compute_AUC: compute AUC
+5. code_compute_AUC: compute AUC  
 
