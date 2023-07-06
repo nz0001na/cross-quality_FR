@@ -46,7 +46,7 @@ face image quality issue might be one of the challenges for deep learning, espec
 ![arch](fig/fig_fi_ijba.png)
 ![arch](fig/fig_fi_facescrub.png)
 
-# face verification result
+# Face verification result
 Calculate the Verification Accuracy with respect to :
 FAR=0.01,
 FAR=0.001,
