@@ -1,7 +1,9 @@
 This repository contains the main codes of face identification and face verification used in paper: [FG2018] What is the Challenge for Deep Learning in Unconstrained Face Recognition?.
 
 ### Link: 
-[[PDF]](https://ieeexplore.ieee.org/abstract/document/8373863)
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/8373863)
+
+[[Report]](https://arxiv.org/abs/2307.02679)
 
 # Abstract
 Recently deep learning has become dominant in face recognition and many other artificial intelligence areas. We raise a question: Can deep learning truly solve the face recognition problem? If not, what is the challenge for deep learning methods in face recognition? We think that the
