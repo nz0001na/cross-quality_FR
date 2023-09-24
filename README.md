@@ -6,8 +6,15 @@ This repository contains the main codes of face identification and face verifica
 [[Report]](https://arxiv.org/abs/2307.02679)
 
 # Abstract
-Recently deep learning has become dominant in face recognition and many other artificial intelligence areas. We raise a question: Can deep learning truly solve the face recognition problem? If not, what is the challenge for deep learning methods in face recognition? We think that the
-face image quality issue might be one of the challenges for deep learning, especially in unconstrained face recognition. To investigate the problem, we partition face images into different qualities, and evaluate the recognition performance, using the state-of-the-art deep networks. Some interesting results are obtained, and our studies can show directions to promote the deep learning methods towards high-accuracy and practical use in solving the hard problem of unconstrained face recognition.
+Recently deep learning has become dominant in face recognition and many other artificial intelligence areas. 
+
+We raise a question: Can deep learning truly solve the face recognition problem? If not, what is the challenge for deep learning methods in face recognition? 
+
+We think that the face image quality issue might be one of the challenges for deep learning, especially in unconstrained face recognition. 
+
+To investigate the problem, we partition face images into different qualities, and evaluate the recognition performance, using the state-of-the-art deep networks. 
+
+Some interesting results are obtained, and our studies can show directions to promote the deep learning methods towards high-accuracy and practical use in solving the hard problem of unconstrained face recognition.
 
 # Motivation
 * To examine the performance of cross quality face recognition
