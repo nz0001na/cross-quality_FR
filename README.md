@@ -1,7 +1,7 @@
 This repository contains the main codes of face identification and face verification used in paper: What is the Challenge for Deep Learning in Unconstrained Face Recognition?
 
 ### Link: 
-[[Paper]](https://ieeexplore.ieee.org/abstract/document/8373863)
+What is the Challenge for Deep Learning in Unconstrained Face Recognition?[[Paper]](https://ieeexplore.ieee.org/abstract/document/8373863)
 
 [[Report]](https://arxiv.org/abs/2307.02679)
 
